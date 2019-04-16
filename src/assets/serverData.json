@@ -1,0 +1,4 @@
+{
+  "system": ["email", "first name"],
+  "list": ["gender2", "age", "friend", "location"]
+}
